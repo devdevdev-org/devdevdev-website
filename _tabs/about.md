@@ -1,5 +1,5 @@
 ---
-title: About
+title: README
 icon: fas fa-info
 order: 4
 ---
