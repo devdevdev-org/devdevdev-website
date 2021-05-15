@@ -15,7 +15,7 @@ timezone: Europe/Berlin
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: dev.dev(dev)  # the main title
+title: dev.dev(dev);  # the main title
 
 tagline: Entwickler in Entwicklung   # it will display as the sub-title
 
