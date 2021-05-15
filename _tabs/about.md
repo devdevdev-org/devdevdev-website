@@ -42,4 +42,6 @@ Heute arbeite ich in Softwareprojekten in der Rolle Scrum Master oder (eher in d
 
 Ich würde hier gern eine Brücke bauen, um nicht nur Softwareprojekte erfolgreicher zu machen, sondern auch um die Rahmenbedingungen schaffen, damit Softwareentwickler mit ihrer Arbeit und – ganz besonders – mit sich selbst und ihrem (Arbeits-)Leben zufriedener sein können.
 
+Aus dieser Motivation stammt der Projekt-Titel `dev.dev(dev);`, was so viel heißen soll wie „Ein Entwickler entwickelt Entwickler”.
+
 – Thorben Egberts, 2021
